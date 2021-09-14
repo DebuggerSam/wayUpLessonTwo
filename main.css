@@ -1,0 +1,37 @@
+img {
+  width: 150px;
+  height: 50px;
+}
+
+h1 {
+  color: red;
+}
+
+span {
+  color: red;
+}
+
+h2 {
+  background-color: green;
+  color: #fff;
+}
+
+li {
+  border: 1px solid black;
+  font-size: 30px;
+}
+
+.fisrt__homework {
+  background-color: blue;
+  width: 100px;
+  margin-bottom: 100px;
+  color: #fff;
+}
+
+.i_have {
+  padding-left: 100px;
+}
+
+.question {
+  padding: 50px;
+}
